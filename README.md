@@ -28,11 +28,11 @@ This was my result:
 Unfortunately, I don't have a screenshot of the desktop layout, but it was responsive! :pray:
 
 ### Diving headfirst into the project
-Having a layout for the first page, my next goal was to do the same for all pages, and to connect them. I've coded the navigation section and made sure it was responsive and that all links worked. I sounds it was easy, but it wasn't.
+Having a layout for the first page, my next goal was to do the same for all pages, and to connect them. I've coded the navigation section and made sure that it was responsive and that all links worked. I sounds like it was easy, but it wasn't.
 
 #### Name
 
-Meanwhile, I had to come up with a name. The first thing that came into my mind was my mom's name. Having so much work to do, I though that was good enough. 
+Meanwhile, I had to come up with a name. The first thing that came into my mind was my mom's name. Having so much work to do, I though that was good enough, and decided to not spend more time with that part.
 
 #### Logo
 The next step was the logo. I've searched and found **FreeLogoDesign** (https://fr.freelogodesign.org/).
@@ -46,6 +46,7 @@ Then I've focused on the elements that needed to be included in our page and I'v
 
 #### Put everything on GitHub
 I know. 
+GitHub remains a bit of a challenge to me, but I think I did it.
 
 [GitHub Page](https://sarabrzn.github.io/restaurant-css-framework/)
 
