@@ -23,9 +23,9 @@ That would be the starting point for the layout of my webpage.
 
 This was my result:
 
-![my first structure](images/smartphone.PNG)
+![my first layout](images/smartphone.PNG)
 
-Unfortunately, I don't have a screenshot for the desktop layout, but it is responsive! :pray:
+Unfortunately, I don't have a screenshot of the desktop layout, but it was responsive! :pray:
 
 ### Diving headfirst into the project
 Having a layout for the first page, my next goal was to do the same for all pages, and to connect them. I've coded the navigation section and made sure it was responsive and that all links worked. I sounds it was easy, but it wasn't.
