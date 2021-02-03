@@ -1,0 +1,12 @@
+body{
+ overflow-x:hidden;
+ font-family:"Monserrat",sans-serif;
+ background-color:black;
+}
+
+
+/* Bootstrap Mobile Gutter Fix */
+/* .row,.container-fluid{
+  margin-left:0px !important;
+  margin-right:0px !important;
+} */
