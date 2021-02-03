@@ -47,5 +47,5 @@ Then I've focused on the elements that needed to be included in our page and I'v
 #### Put everything on GitHub
 I know. 
 
-[GitHub page](https://sarabrzn.github.io/restaurant-css-framework/)
+[GitHub Page](https://sarabrzn.github.io/restaurant-css-framework/)
 
