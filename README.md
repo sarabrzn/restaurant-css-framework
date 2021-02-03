@@ -1,5 +1,5 @@
 # restaurant-css-framework
-######  This project consists of building a website for a hypothetical restaurant, with the goal of getting familiar with the bootstrap framework.
+#### This project was about building a website for a hypothetical restaurant, with the goal of getting familiar with the bootstrap framework.
  
 ### Planning the project
 
@@ -16,14 +16,14 @@ After 3 hours and dozens of paper sheets, this was what I had.
 I have decided to change my approach and quit the design part. Given that, at this point, my creativity levels are below zero, I have put my focus on the following 
 bootstrap grid exercise:
 
-![screenshot1](images/basicmobile.png)
-![screenshot2](images/basicdesktop.png)
+![screenshot layout mobile](images/basicmobile.PNG)
+![screenshot layout desktop](images/basicdesktop.PNG)
 
 That would be the starting point for the layout of my webpage. 
 
 This was my result:
 
-![my first structure](images/smartphone.png)
+![my first structure](images/smartphone.PNG)
 
 Unfortunately, I don't have a screenshot for the desktop layout, but it is responsive! :pray:
 
