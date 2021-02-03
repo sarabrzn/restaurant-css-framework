@@ -44,11 +44,8 @@ This was the result:
 #### Work work work
 Then I've focused on the elements that needed to be included in our page and I've been working in small steps, with the help of bootstrap documentation and some videos on youtube.
 
-#### Put everything on github
-I know.
+#### Put everything on GitHub
+I know. 
 
-<!-- I still have to add the link for the page (the right one)
-  -->
-
-<!-- [GitHub page](link) -->
+[GitHub page](https://sarabrzn.github.io/restaurant-css-framework/)
 
