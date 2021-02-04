@@ -1,5 +1,7 @@
 # restaurant-css-framework
 #### This project was about building a website for a hypothetical restaurant, with the goal of getting familiar with the bootstrap framework.
+
+The photos used for the website were downloaded from [Unsplash](https://unsplash.com/)
  
 ### Planning the project
 
