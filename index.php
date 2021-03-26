@@ -17,7 +17,7 @@
     <header class="row">
       <div class="col-12">
         <div class= "border bg-light">
-          <a href="index.html" class="navbar-brand">
+          <a href="index.php" class="navbar-brand">
             <img src="images/logo.png" alt="Logo" title="Logo">
           </a> 
             <div class="justify-content-end">
@@ -27,11 +27,11 @@
       <div class="col-12">
         <div class="border bg-light">
           <nav class="nav flex-column nav flex-lg-row nav nav-tabs justify-content-end">
-            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="index.php">Home</a>
             <a class="nav-link" href="menu.html">Menu</a>
             <a class="nav-link" href="pictures.html">Pictures</a>
             <a class="nav-link" href="restaurants.html">Restaurants</a>
-            <a class="nav-link" href="contact.html">Contact</a>
+            <a class="nav-link" href="contact.php">Contact</a>
           </nav>  
         </div>
       </div>
